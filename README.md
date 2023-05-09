@@ -4,7 +4,7 @@
 
 ## Results
 
-<img src="img/full.png" width="400" height="250"/>
+<img src="img/full.jpeg" width="400" height="250"/>
 
 
-<img src="img/menu.png" width="400" height="250"/>
+<img src="img/menu.jpeg" width="400" height="250"/>
